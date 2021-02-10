@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/get_report"
+        android:title="Get Report"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/showTotal"
+        android:title="Calculate Expenses"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/how_to_delete"
+        android:title="How to Delete data?"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/credits"
+        android:title="About eXpenses ©"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/sign_out_menu"
+        android:title="@string/sign_out"
+        app:showAsAction="never"/>
+</menu>

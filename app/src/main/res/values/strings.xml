@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">eXpenses</string>
+    <string name="send_button_label">Add</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="del">Delete Latest</string>
+    <string name="admob_id">ca-app-pub-8823916091635142~8389915354</string>
+</resources>
